@@ -3,4 +3,4 @@ Web App that allows a user to see different camping sites, register , login and 
 
 Made as a project to a Web Development Course.
 
-YelpCamp: [https://desolate-reef-40656.herokuapp.com/]
+YelpCamp: https://desolate-reef-40656.herokuapp.com/
